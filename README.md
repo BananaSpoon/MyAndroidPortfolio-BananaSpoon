@@ -1,5 +1,6 @@
 # AndroidExercises-BananaSpoon
 A collection of basic Android exercises
+
 1.	Hello World App Demo (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-BananaSpoon)
 
 2.	Prime Number Game (https://github.com/DeLaSalleUniversity-Manila/primenumbergame-BananaSpoon)
