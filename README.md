@@ -95,11 +95,11 @@ A collection of basic Android exercises
 
 47.	Range Seekbar Demo (https://github.com/DeLaSalleUniversity-Manila/rangebardemo-BananaSpoon)
 
-48.	Frame Difference (Motion Detect)
+48.	Frame Difference (Motion Detect) (https://github.com/DeLaSalleUniversity-Manila/framedifferencesample-BananaSpoon)
 
 49.	Pedestrian Detection
 
-50.	Voronoi Effects
+50.	Voronoi Effects (https://github.com/DeLaSalleUniversity-Manila/voronoi-effects-BananaSpoon)
 
 51.	FANN Library in Android
 
@@ -179,21 +179,21 @@ A collection of basic Android exercises
 
 89.	San Angeles (https://github.com/DeLaSalleUniversity-Manila/sanangeles-BananaSpoon)
 
-90.	OpenGL ES 3.0 Demo
+90.	OpenGL ES 3.0 Demo (https://github.com/DeLaSalleUniversity-Manila/opengles3-BananaSpoon)
 
-91.	2048 Game
+91.	2048 Game (https://github.com/DeLaSalleUniversity-Manila/2048-BananaSpoon)
 
 92.	Green Wall Game (https://github.com/DeLaSalleUniversity-Manila/greenwall-BananaSpoon)
 
-93.	Octodroid
+93.	Octodroid (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-BananaSpoon)
 
 94.	Flappy Bird (Clone) (https://github.com/DeLaSalleUniversity-Manila/flappydemo-BananaSpoon)
 
 95.	9GAG (Unofficial App) (https://github.com/DeLaSalleUniversity-Manila/9gagunofficial-BananaSpoon)
 
-96.	MP Android Chart Demo
+96.	MP Android Chart Demo (https://github.com/DeLaSalleUniversity-Manila/mpandroidchart-BananaSpoon)
 
-97.	Puzzle Collection
+97.	Puzzle Collection (https://github.com/DeLaSalleUniversity-Manila/puzzlecollection-BananaSpoon)
 
 98.	Super Jumper (https://github.com/DeLaSalleUniversity-Manila/superjumper-BananaSpoon)
 
