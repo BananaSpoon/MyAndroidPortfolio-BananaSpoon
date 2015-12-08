@@ -1,4 +1,4 @@
-# AndroidExercises-BananaSpoon
+# MyAndroidPortfolio-BananaSpoon
 A collection of basic Android exercises
 
 0. **Course Adviser App** (https://github.com/DeLaSalleUniversity-Manila/courseadviserapp-BananaSpoon)
