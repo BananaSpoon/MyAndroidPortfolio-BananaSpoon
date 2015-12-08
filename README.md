@@ -51,9 +51,9 @@ A collection of basic Android exercises
 
 24.	**Settings Activity** (https://github.com/DeLaSalleUniversity-Manila/settingsactivity-BananaSpoon)
 
-25.	**WorkoutFragmentDemo ** (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-BananaSpoon)
+25.	**WorkoutFragmentDemo** (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-BananaSpoon)
 
-26.	**Grocery App **(https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-BananaSpoon) (facebook share and sms)
+26.	**Grocery App**(https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-BananaSpoon) (facebook share and sms)
 
 27.	**Breast Cancer Awareness App** (https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-BananaSpoon)
 
