@@ -47,11 +47,11 @@ A collection of basic Android exercises
 
 22.	**SQLiteDatabase** (https://github.com/DeLaSalleUniversity-Manila/sqlitedatabaseexercise-BananaSpoon)
 
-23.	Mini-database with Text file
+23.	**Mini-database with Text file**
 
 24.	**Settings Activity** (https://github.com/DeLaSalleUniversity-Manila/settingsactivity-BananaSpoon)
 
-25.	**WorkoutFragmentDemo  **(https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-BananaSpoon)
+25.	**WorkoutFragmentDemo ** (https://github.com/DeLaSalleUniversity-Manila/workoutfragmentdemo-BananaSpoon)
 
 26.	**Grocery App **(https://github.com/DeLaSalleUniversity-Manila/breastcancerawarenessapp-BananaSpoon) (facebook share and sms)
 
@@ -93,7 +93,7 @@ A collection of basic Android exercises
 
 45.	**Colored Gray** (https://github.com/DeLaSalleUniversity-Manila/coloredgray-BananaSpoon)
 
-46.	**Twin Camera Effect**(https://github.com/DeLaSalleUniversity-Manila/twincameraeffect-BananaSpoon)
+46.	**Twin Camera Effect** (https://github.com/DeLaSalleUniversity-Manila/twincameraeffect-BananaSpoon)
 
 47.	**Range Seekbar Demo** (https://github.com/DeLaSalleUniversity-Manila/rangebardemo-BananaSpoon)
 
@@ -107,11 +107,11 @@ A collection of basic Android exercises
 
 52.	**Hello JNI Sample** (https://github.com/DeLaSalleUniversity-Manila/hellojavanativeinterface-BananaSpoon)
 
-53.**	Sensor (Accelerometer) graph with OpenGL** (https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-BananaSpoon)
+53. **Sensor (Accelerometer) graph with OpenGL** (https://github.com/DeLaSalleUniversity-Manila/accelerometerwithopengl-BananaSpoon)
 
 54.	**Hello GL2** (https://github.com/DeLaSalleUniversity-Manila/hellogl2-BananaSpoon)
 
-55.	**Bitmap Plasma **(https://github.com/DeLaSalleUniversity-Manila/bitmap-plasma-BananaSpoon)
+55.	**Bitmap Plasma** (https://github.com/DeLaSalleUniversity-Manila/bitmap-plasma-BananaSpoon)
 
 56.	**Teapot Render** (https://github.com/DeLaSalleUniversity-Manila/teapotrender-BananaSpoon)
 
@@ -141,7 +141,7 @@ A collection of basic Android exercises
 
 69.	**ORB Flow**
 
-70.**	FAST Flow**
+70. **FAST Flow**
 
 71.	**AKAZE Flow**
 
@@ -199,7 +199,7 @@ A collection of basic Android exercises
 
 98.	**Super Jumper** (https://github.com/DeLaSalleUniversity-Manila/superjumper-BananaSpoon)
 
-99.	**Super Mario (Android Clone) **(https://github.com/DeLaSalleUniversity-Manila/supermario-BananaSpoon)
+99.	**Super Mario (Android Clone)**(https://github.com/DeLaSalleUniversity-Manila/supermario-BananaSpoon)
 
 100.	**Google's Santa Tracker**
 
