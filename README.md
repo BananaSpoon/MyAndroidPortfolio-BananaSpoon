@@ -115,27 +115,27 @@ A collection of basic Android exercises
 
 56.	**Teapot Render** (https://github.com/DeLaSalleUniversity-Manila/teapotrender-BananaSpoon)
 
-57.	**Face Detection in OpenCV with Gradle Experimental Plugin**
+57.	**Face Detection in OpenCV with Gradle Experimental Plugin** (https://github.com/DeLaSalleUniversity-Manila/facedetectionopencvwithgradleexperimentalplugin-BananaSpoon)
 
-58.	**Canny Edge OpenCV with Android Experimental Gradle Plugin**
+58.	**Canny Edge OpenCV with Android Experimental Gradle Plugin** (https://github.com/DeLaSalleUniversity-Manila/cannyedgeopencvwithandroidexperimentalgradle-BananaSpoon)
 
-59.	**Color Reduction**
+59.	**Color Reduction** (https://github.com/DeLaSalleUniversity-Manila/colorreduction-BananaSpoon)
 
-60.	**ORB Features OpenCV with Android Experimental Gradle Plugin**
+60.	**ORB Features OpenCV with Android Experimental Gradle Plugin** (https://github.com/DeLaSalleUniversity-Manila/orbfeaturesopencvwithexperimentalgradleplugin-BananaSpoon)
 
-61.	**BRISK Features OpenCV with Android Experimental Gradle Plugin**
+61.	**BRISK Features OpenCV with Android Experimental Gradle Plugin** (https://github.com/DeLaSalleUniversity-Manila/briskfeaturesopencvwithexperimentalgradleplugin-BananaSpoon)
 
-62.	**AKAZE Features OpenCV with Android Experimental Gradle Plugin**
+62.	**AKAZE Features OpenCV with Android Experimental Gradle Plugin** (https://github.com/DeLaSalleUniversity-Manila/akazefeaturesopencvwithexperimentalgradleplugin-BananaSpoon)
 
 63.	**OpenCV 3.0 Android Camera Calibration** (https://github.com/DeLaSalleUniversity-Manila/opencvcameracalibrationsample-BananaSpoon)
 
-64.	**Filter2D**
+64.	**Filter2D** (https://github.com/DeLaSalleUniversity-Manila/filter2d-BananaSpoon)
 
-65.	**ContoursDemo**
+65.	**ContoursDemo** (https://github.com/DeLaSalleUniversity-Manila/contoursdemo-BananaSpoon)
 
-66.	**Circle Detection**
+66.	**Circle Detection** (https://github.com/DeLaSalleUniversity-Manila/detectcircles-BananaSpoon)
 
-67.	**Playing with Transparency**
+67.	**Playing with Transparency** (https://github.com/DeLaSalleUniversity-Manila/playingwithtransparency-BananaSpoon)
 
 68.	**Optical Flow**
 
@@ -147,9 +147,9 @@ A collection of basic Android exercises
 
 72.	**Otsu Thresholding**
 
-73.	**Skin Detector**
+73.	**Skin Detector** (https://github.com/DeLaSalleUniversity-Manila/skindetector-BananaSpoon)
 
-74.	**Image Denoising**
+74.	**Image Denoising** (https://github.com/DeLaSalleUniversity-Manila/imagedenoising-BananaSpoon)
 
 75.	**LBPYUV**
 
@@ -161,7 +161,7 @@ A collection of basic Android exercises
 
 79.	**Native Bitmap Access**
 
-80.	**Image Histogram**
+80.	**Image Histogram** (https://github.com/DeLaSalleUniversity-Manila/imagehistogram-BananaSpoon)
 
 81.	**Adaptive Thresholding**
 
@@ -169,7 +169,7 @@ A collection of basic Android exercises
 
 83.	**Full Body Detection**
 
-84.	**Histogram of Gradients (HOG) Features**
+84.	**Histogram of Gradients (HOG) Features** (https://github.com/DeLaSalleUniversity-Manila/hog-BananaSpoon)
 
 85.	**Consensus-based Matching and Tracking in Android (CMT Tracker)**
 
@@ -203,5 +203,5 @@ A collection of basic Android exercises
 
 100.	**Google's Santa Tracker**
 
-101.	**Forkhub**
+101.	**Forkhub** (https://github.com/DeLaSalleUniversity-Manila/forkhub-BananaSpoon)
 
