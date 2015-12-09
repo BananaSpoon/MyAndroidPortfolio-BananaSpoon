@@ -1,6 +1,8 @@
 # MyAndroidPortfolio-BananaSpoon
 A collection of basic Android exercises
 
+The Breast Cancer Awareness App has the portions of Splash screen, Menu activity, help activity, and viewpager with text to speech
+
 0. **Course Adviser App** (https://github.com/DeLaSalleUniversity-Manila/courseadviserapp-BananaSpoon)
 
 1.	**Hello World App Demo** (https://github.com/DeLaSalleUniversity-Manila/androidhelloworldapp-BananaSpoon)
